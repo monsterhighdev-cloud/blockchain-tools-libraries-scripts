@@ -73,3 +73,5 @@ Gems:
 
 The scripts are dedicated to the public domain.
 Use it as you please with no restrictions whatsoever.
+If you have any question or issue, please contact us!
+I'll solve this problem in shorten time.
